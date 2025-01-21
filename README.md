@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Diana Franco</h1>
-<h3 align="center">A Full Stack Developer from Colombia!</h3>
+<h3 align="center">Full Stack Developer from Colombia!</h3>
 <h3 align="center">Backend | TypeScript | Node.Js | NestJS | TypeORM | PostgreSQL | Frontend | React</h3>
 
 - 📫 My email: **dimafraq29@gmail.com**
