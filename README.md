@@ -5,7 +5,17 @@
 
 - 📫 My email: **dimafraq29@gmail.com**
 
-- 💬 **I am a Full Stack developer specializing in the backend, passionate about building modern, scalable, and well-organized applications. My background as a mechanical engineer taught me to solve complex problems with logic and precision, skills that are now applied to software development. I work with technologies such as NestJS, Node.js, TypeORM, and PostgreSQL. Although my main focus is on the backend, I also have experience working with frontend technologies such as React, Redux, and React Context. This allows me to approach projects holistically and collaborate as a Full Stack developer when needed. For me, learning is a lifestyle, so I seek to constantly improve and grow every day to keep up with today's technological world. If you are looking for a developer who combines technical skills with creativity, dedication, and a practical approach, I would love to connect with you!**
+<h3 align="center">Who am I?</h3>
+
+- 💬 I am a Full Stack developer specializing in the backend, passionate about building modern, scalable, and well-organized applications. My background as a mechanical engineer taught me to solve complex problems with logic and precision, skills that are now applied to software development.
+
+<h3 align="center">What do I do?</h3>
+
+- 🔭 I work with technologies such as NestJS, Node.js, TypeORM, and PostgreSQL. Although my main focus is on the backend, I also have experience working with frontend technologies such as React, Redux, and React Context. This allows me to approach projects holistically and collaborate as a Full Stack developer when needed.
+
+<h3 align="center">What do I plan?</h3>
+
+- 📝 For me, learning is a lifestyle, so I seek to constantly improve and grow every day to keep up with today's technological world. If you are looking for a developer who combines technical skills with creativity, dedication, and a practical approach, I would love to connect with you!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
